@@ -33,13 +33,13 @@ I love building **web applications**, exploring new technologies, and improving 
 
 ## 📈 GitHub Stats
 
-![Didier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Didier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=didier-bazayesu&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: [Didier Bazayesu](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [Didier Bazayesu](https://linkedin.com/in/didierbazayesu)  
 - Twitter: [@Twitter](https://x.com/BazayesuD88309)  
 - Email: didierbazayesu@example.com  
 
