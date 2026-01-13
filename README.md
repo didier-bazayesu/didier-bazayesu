@@ -25,9 +25,9 @@ I love building **web applications**, exploring new technologies, and improving 
 
 ## 🚀 Projects
 
-- [Portfolio Website](https://github.com/yourusername/portfolio) - Personal website showcasing projects and skills  
-- [Task Manager App](https://github.com/yourusername/task-manager) - Full-stack app for managing tasks  
-- [API Fetcher](https://github.com/yourusername/api-fetcher) - JavaScript project demonstrating async API calls  
+- [cloning Website](https://github.com/didier-bazayesu/Airbnb_cloning.git) - Showing skills in cloning   
+- [Project collaboration](https://github.com/dosite-cyiza/Mapping-jobs-and-skills.git) - Full-stack app for managing tasks  
+
 
 ---
 
@@ -40,8 +40,8 @@ I love building **web applications**, exploring new technologies, and improving 
 ## 📫 Connect with me
 
 - LinkedIn: [Didier Bazayesu](https://linkedin.com/in/yourprofile)  
-- Twitter: [@YourTwitter](https://twitter.com/yourhandle)  
-- Email: your.email@example.com  
+- Twitter: [@Twitter](https://x.com/BazayesuD88309)  
+- Email: didierbazayesu@example.com  
 
 ---
 
