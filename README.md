@@ -33,7 +33,7 @@ I love building **web applications**, exploring new technologies, and improving 
 
 ## 📈 GitHub Stats
 
-![Didier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=didier-bazayesu&show_icons=true&theme=radical)
+![Didier's GitHub Stats](https://github.com/didier-bazayesu&show_icons=true&theme=radical)
 
 ---
 
