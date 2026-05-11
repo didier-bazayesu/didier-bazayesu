@@ -41,8 +41,11 @@ I love building **web applications**, exploring new technologies, and improving 
 
 - LinkedIn: [Didier Bazayesu](https://linkedin.com/in/didierbazayesu)  
 - Twitter: [@Twitter](https://x.com/BazayesuD88309)  
-- Email: didierbazayesu@example.com  
+- Email: didierbazayesu@example.com
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=didier-bazayesu&theme=react-dark)
 
 ---
 
 *"Code is like humor. When you have to explain it, it’s bad."* 😄😄
+
