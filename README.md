@@ -43,7 +43,7 @@ I love building **web applications**, exploring new technologies, and improving 
 - Twitter: [@Twitter](https://x.com/BazayesuD88309)  
 - Email: didierbazayesu@example.com
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=didier-bazayesu&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didier-bazayesu&show_icons=true&theme=radical)
 
 ---
 
