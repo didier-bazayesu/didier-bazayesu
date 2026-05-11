@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Didier%20Bazayesu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/didierbazayesu)
 [![Twitter](https://img.shields.io/badge/Twitter-@BazayesuD88309-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BazayesuD88309)
-[![Email](https://img.shields.io/badge/Email-didierbazayesu@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbazayesu@example.com)
+[![Email](https://img.shields.io/badge/Email-didierbazayesu@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbazayesu@gmail.com)
 
 </div>
 
