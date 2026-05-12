@@ -56,6 +56,8 @@ I love building **web applications**, exploring new technologies, and improving 
 |--------|-------------|
 | [🌐 Airbnb Clone](https://github.com/didier-bazayesu/Airbnb_cloning.git) | Showcasing UI cloning skills with a fully styled Airbnb-inspired layout |
 | [🗂️ Job & Skills Mapping](https://github.com/dosite-cyiza/Mapping-jobs-and-skills.git) | Full-stack collaborative app for managing tasks, jobs and skill mapping |
+| [🗂️ Plant2market](https://github.com/didier-bazayesu/plant-to-market-project.git) | Full-stack web app|
+
 
 ---
 
