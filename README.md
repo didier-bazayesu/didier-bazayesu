@@ -45,8 +45,7 @@ I love building **web applications**, exploring new technologies, and improving 
 
 ```
 🔸 Java
-🔸 Advanced JavaScript concepts
-🔸 Best practices for Full-Stack Development
+
 ```
 
 ---
