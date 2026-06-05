@@ -45,6 +45,7 @@ I love building **web applications**, exploring new technologies, and improving 
 
 ```
 🔸 Java
+🔸 Python
 
 ```
 
